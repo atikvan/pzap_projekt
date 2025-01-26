@@ -1,1 +1,1 @@
-# pzap_projekt
+Kroz ovaj seminarski rad implementirana je analiza sportskih uspjeha na Olimpijskim igrama. Aplikacija se pokreće u alatu VS Code, Run, Start debugging. Link na repozitorij:https://github.com/atikvan/pzap_projekt
